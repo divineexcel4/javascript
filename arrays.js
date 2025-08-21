@@ -5,7 +5,7 @@
 // // console.log(fruits.length)
 
 
-// //  let random = ['toys', 57.3, true, 'john', 'doe', 10, false]
+//  let random = ['toys', 57.3, true, 'john', 'doe', 10, false]
 
 // // console.log(random.shift())
 
